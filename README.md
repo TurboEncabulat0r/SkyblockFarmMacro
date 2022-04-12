@@ -20,3 +20,7 @@ TODO:
 1. add a config file for items that are changed often 
 2. add support for a range of RGB values
 3. add better hotkey support
+
+
+DISCLAIMER:
+This software was intended for educational purposes only, I am in no way responsible for how you use this software, nor am I responsible for the consequences that may come of its usage or the damages that this software may cause.
