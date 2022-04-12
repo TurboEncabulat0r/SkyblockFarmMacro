@@ -106,10 +106,12 @@ if __name__ == '__main__':
     except:
         pg.install()
 
-    #keyboard.add_hotkey('l', lambda: startmacro())
+    keyboard.add_hotkey('l', lambda: startmacro())
+    """
     listener = kb.Listener(
     on_press=on_press,
     on_release=on_release)
     listener.start()
+    """
 
     keyboard.wait('p')
